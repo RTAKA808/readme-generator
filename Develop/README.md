@@ -1,7 +1,7 @@
 
-# terererer
+# Title
 
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of contents
     
@@ -20,19 +20,19 @@
 7.[Questions](#questions)
 
 ## Description
-dfdfdfdf
+README generator
 ##  Installation
-ererer
+install the inquirer package in nodejs
 
 ## Licensing
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) This project is using the[License: MPL 2.0](https://opensource.org/licenses/MPL-2.0) license.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This project is using the[License: MIT](https://opensource.org/licenses/MIT) license.
 ## Usage
-wewwew
+The user fills out the prompts and it generates a readme
 ## Contributions
-fgfgfgfgfg
+n/a
 ## Tests
-hththth
+This was tested in nodejs
 ## Questions
-Please send additional questions to hhmhmhmhm
-[github](https://github.com/thththth)
+Please send additional questions to takahashi808@gmail.com
+[github](https://github.com/RTAKA808)
 
