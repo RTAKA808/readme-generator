@@ -21,9 +21,10 @@ const questions = [
         message:'How do you install this project?'
     },
     {
-        type:"input",
-        name:"licensing",
+        type:"list",
+        name:"license",
         message:"What kind of licensing did you use?",
+        choices:["MIT","Apache2.0", 'GNU','Mozilla','BSD']
     },
     {
         type:"input",
@@ -44,8 +45,13 @@ const questions = [
     {
         type:'input',
         name:"questions",
-        message:"Contact info?",
-    }
+        message:"Please enter your email",
+    },
+    {
+        type:'input',
+        name:"github",
+        message:"please enter your github username?",
+    },
 ];
 
 // TODO: Create a function to write README file
@@ -67,3 +73,5 @@ function init() {
 
 // Function call to initialize app
 init();
+
+
